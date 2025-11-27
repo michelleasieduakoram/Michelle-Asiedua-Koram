@@ -23,7 +23,7 @@ MITRE ATT&CK, ISO 27001 Concepts
 -----------------------------
 # Featured Projects
 ### [Advanced DNS Tunnelling & C2 Detection](https://github.com/michelleasieduakoram/Advanced-DNS-Tunnelling-and-C2-Detection/)
-**Tools:** Elastic Stack(Elasticsearch,Kibana KQL), Suricata, Filebeat, Docker, Python 3, tcpdump 
+**Tools:** Elastic Stack(Elasticsearch, Kibana, KQL), Suricata, Filebeat, Docker, Python 3, tcpdump 
 
 **Highlights:**
 - Built a DNS lab to simulate tunnelling and C2 behaviour.
